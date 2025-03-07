@@ -1,0 +1,4 @@
+0 Altin
+1 Gumus
+2 Demir
+3 Bakir

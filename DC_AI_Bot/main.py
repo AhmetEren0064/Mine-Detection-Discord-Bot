@@ -30,4 +30,4 @@ async def check(ctx):
         await ctx.send("Bir fotoğraf eklemelisiniz")
     
 
-bot.run("MTIzMTMzMDYwMDM2Nzk0Nzg0Nw.G1qVU4.0dk1miZMtvbxGhQFFlUWX5qX-5bhAaG67VR0lU")
+bot.run("TOKEN")
